@@ -1,0 +1,13 @@
+2023-09-07 21:28:13,213 - INFO - Pharmaceutical Sales Prediction Project Started.
+2023-09-07 21:28:13,219 - INFO - Loading and preprocessing data...
+2023-09-07 21:28:13,240 - INFO - Seperating Categorical and Numerical Columns
+2023-09-07 21:28:13,244 - INFO - Checking for Outliners and Dealing them
+2023-09-07 21:28:13,248 - INFO - Elements of the columns
+2023-09-07 21:28:13,254 - INFO - Promotion Distribution on Train and Test Data
+2023-09-07 21:28:13,256 - INFO - Checking Sales Behavior as per Holidays
+2023-09-07 21:28:13,263 - INFO - Seasonal Sales and Holiday
+2023-09-07 21:28:13,267 - INFO - Promotional Effect
+2023-09-07 21:28:13,271 - INFO - Store Data Preprocessing
+2023-09-07 21:28:13,276 - INFO - Sales and Customer Distribution Over Time
+2023-09-07 21:28:13,280 - INFO - Average Sales During State Holiday and During Store Open and Closed Time
+2023-09-07 21:28:13,286 - INFO - Average Sales During,Befor and Holiday Period and on a Regular Day
