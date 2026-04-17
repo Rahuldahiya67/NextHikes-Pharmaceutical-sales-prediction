@@ -1,1 +1,1 @@
-# NextHikes-Pharmaceutical-sales-prediction
+# NextHikes-Pharmaceutical-sales
